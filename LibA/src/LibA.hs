@@ -1,7 +1,7 @@
 module LibA
     ( 
-        someFunc
+        someFuncLibA
     ) where
 
-someFunc :: IO ()
-someFunc = putStrLn "someFunc"
+someFuncLibA :: IO ()
+someFuncLibA = putStrLn "someFuncLibA"
