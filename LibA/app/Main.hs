@@ -3,4 +3,6 @@ module Main (main) where
 import LibA
 
 main :: IO ()
-main = someFuncLibA2
+main = do
+    someFuncLibA2
+    someFuncLibA3

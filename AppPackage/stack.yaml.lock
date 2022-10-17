@@ -5,16 +5,16 @@
 
 packages:
 - completed:
-    filepath: ../LibA/.stack-work/dist/d53b6a14/LibA-0.1.0.0.tar.gz
+    filepath: ../LibA/.stack-work/dist/d53b6a14/LibA-0.1.0.1.tar.gz
     name: LibA
     pantry-tree:
-      sha256: 9dccd8cff722d9ee314e12daef65e24077300ca6b5d90ba69576b7ee06f9d9d3
+      sha256: d5612834fc92bd897bb4df73c64002cf9e47a6b1ed30ed2276a92aab2224cdfd
       size: 398
-    sha256: 7aafbe7ec1695fb9855b3718a8384b57ad8bc544a6cb2814fd90428bcd80a84b
-    size: 2160
-    version: 0.1.0.0
+    sha256: cc6d9d59ee44d41e51fca0ccaddca884a5f2e3a8a5a0ce870bbde6270c425fb4
+    size: 2183
+    version: 0.1.0.1
   original:
-    filepath: ../LibA/.stack-work/dist/d53b6a14/LibA-0.1.0.0.tar.gz
+    filepath: ../LibA/.stack-work/dist/d53b6a14/LibA-0.1.0.1.tar.gz
 snapshots:
 - completed:
     sha256: 0ced7f93245307212900d760c1322dfb527c4b902868c11ccac37f48b7d4ebb9

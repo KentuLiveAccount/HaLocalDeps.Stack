@@ -32,7 +32,7 @@ library
       src
   ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints
   build-depends:
-      LibA ==0.1.0.0
+      LibA ==0.1.0.1
     , base >=4.7 && <5
   default-language: Haskell2010
 
@@ -45,7 +45,7 @@ executable AppPackage-exe
   ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints -threaded -rtsopts -with-rtsopts=-N
   build-depends:
       AppPackage
-    , LibA ==0.1.0.0
+    , LibA ==0.1.0.1
     , base >=4.7 && <5
   default-language: Haskell2010
 
@@ -59,6 +59,6 @@ test-suite AppPackage-test
   ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints -threaded -rtsopts -with-rtsopts=-N
   build-depends:
       AppPackage
-    , LibA ==0.1.0.0
+    , LibA ==0.1.0.1
     , base >=4.7 && <5
   default-language: Haskell2010

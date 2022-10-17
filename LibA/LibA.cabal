@@ -4,10 +4,10 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: c3773e72125f724f9f6a58225fa1a89056ee557c787a11f6e89ee254eea7442f
+-- hash: 82b8e5e3ee19f8672e9f623790c0c578b3f02a2d8b78bd578b171215235d3861
 
 name:           LibA
-version:        0.1.0.0
+version:        0.1.0.1
 description:    Please see the README on GitHub at <https://github.com/githubuser/LibA#readme>
 homepage:       https://github.com/githubuser/LibA#readme
 bug-reports:    https://github.com/githubuser/LibA/issues

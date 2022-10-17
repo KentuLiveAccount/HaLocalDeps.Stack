@@ -7,3 +7,4 @@ main :: IO ()
 main = do
     someFuncApp
     someFuncLibA2
+    LibA.someFuncLibA3
