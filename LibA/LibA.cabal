@@ -1,10 +1,10 @@
 cabal-version: 1.12
 
--- This file has been generated from package.yaml by hpack version 0.33.0.
+-- This file has been generated from package.yaml by hpack version 0.35.0.
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 757910d78ed6cefb1dfbe55b542a55ef5f964459780ad045cbd944ba0ee1f0cc
+-- hash: c3773e72125f724f9f6a58225fa1a89056ee557c787a11f6e89ee254eea7442f
 
 name:           LibA
 version:        0.1.0.0
@@ -27,7 +27,7 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      LibA
   other-modules:
       Paths_LibA
   hs-source-dirs:
